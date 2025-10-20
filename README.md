@@ -47,6 +47,9 @@ detachable fishing lure, snap-fit lure body, two-piece bait housing, injection-m
 
 Files
 
-lure_body.stl – 3D model ready for printing or injection mold design.
+James_Lure_Adaptive_Manufacturing_Bottom.stl
+James_Lure_Adaptive_Manufacturing_Top.stl
+James_Lure_Injection_Molding_Bottom.stl
+James_Lure_Injection_Molding_Top.stl
 
 LICENSE – Full CC BY-NC 4.0 license text.
